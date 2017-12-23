@@ -1,0 +1,22 @@
+{
+  "name": "smile-ly",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmileMeeso/Smile-ly.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SmileMeeso/Smile-ly/issues"
+  },
+  "homepage": "https://github.com/SmileMeeso/Smile-ly#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
